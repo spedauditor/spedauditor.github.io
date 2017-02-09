@@ -37,3 +37,5 @@ DEFAULT_PAGINATION = 10
 DEFAULT_METADATA = {
     'status': 'draft',
 }
+
+STATIC_PATHS = ['images']
