@@ -39,3 +39,9 @@ DEFAULT_METADATA = {
 }
 
 STATIC_PATHS = ['images']
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {},
+    },
+}
